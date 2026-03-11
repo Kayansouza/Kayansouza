@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Kayan Souza!</h1>
-<h3 align="center">Desenvolvedor Java apaixonado por tecnologia e futebol ⚽☕</h3>
+<h3 align="center">Desenvolvedor Kotlin / Java apaixonado por tecnologia e futebol ⚽☕</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KayanSouza&color=blue&style=flat" alt="Contador de visitantes" />
