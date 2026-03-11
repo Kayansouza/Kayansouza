@@ -15,7 +15,7 @@
 ### 💡 Sobre mim
 
 - 🎯 Desenvolvedor Kotlin / Java com foco em **back-end**
-- 🧠 Atualmente estudando **Kotlin** **Spring Boot**, **APIs REST** e **JPA**
+- 🧠 Atualmente estudando **Kotlin**, **Spring Boot**, **APIs REST** e **JPA**
 - ⚽ Desenvolvendo um sistema para gerenciamento de campeonatos de futebol
 - 📚 Sempre aprendendo algo novo e aplicando na prática
 
