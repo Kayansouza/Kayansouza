@@ -1,65 +1,104 @@
-<!-- Banner personalizado -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KayanSouza/KayanSouza/main/assets/banner.png" />
-</p>
+# 👋 Fala, eu sou o Richard
 
-<h1 align="center">👋 Olá, eu sou o Kayan Souza!</h1>
-<h3 align="center">Desenvolvedor Kotlin / Java apaixonado por tecnologia e futebol ⚽☕</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KayanSouza&color=blue&style=flat" alt="Contador de visitantes" />
-</p>
+💻 Desenvolvedor Backend em formação
+🚀 Focado em Kotlin, Java e APIs REST
+📚 Estudante de Ciência da Computação | Proa
 
 ---
 
-### 💡 Sobre mim
+## 🧠 Sobre mim
 
-- 🎯 Desenvolvedor Kotlin / Java com foco em **back-end**
-- 🧠 Atualmente estudando **Kotlin**, **Spring Boot**, **APIs REST** e **JPA**
-- ⚽ Desenvolvendo um sistema para gerenciamento de campeonatos de futebol
-- 📚 Sempre aprendendo algo novo e aplicando na prática
+Sou um desenvolvedor em formação com foco em backend, construindo projetos reais com regras de negócio aplicadas.
 
----
+Atualmente estou desenvolvendo sistemas como:
 
-### 🛠️ Tecnologias & Ferramentas
+- 💰 Sistema Bancário (Caixa Eletrônico)
+- 🏨 Sistema de Hotel
+- 🚚 Sistema de Logística (Demo Day)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Busco minha primeira oportunidade na área de tecnologia como Estagiário, Jovem Aprendiz ou Desenvolvedor Júnior.
 
 ---
 
-### 🚀 Projeto em desenvolvimento
+## 🚀 Tecnologias & Ferramentas
 
-📌 **[Campeonato Manager](https://github.com/KayanSouza/Campeonato-Manager)**  
-> Sistema back-end em Java com Spring Boot para gerenciamento completo de campeonatos de futebol. Permite o controle de times, jogadores, partidas e estatísticas. Ideal para apps esportivos ou organização de torneios.
+
+
+
+
+
+
 
 ---
 
-### 📊 GitHub Stats
+## 🔥 Projetos em destaque
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayanSouza&show_icons=true&theme=java&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayanSouza&layout=compact&langs_count=7&theme=java"/>
-</div>
+### 💰 Sistema Bancário (Caixa Eletrônico)
+
+Sistema simulando operações bancárias com foco em backend e regras de negócio.
+
+🔹 Funcionalidades:
+
+- Depósito
+- Saque
+- Consulta de saldo
+- Histórico de transações
+
+🚀 Próximos passos:
+
+- Transformar em API REST
+- Integração com MySQL
 
 ---
 
-### 📫 Contato
+### 🏨 Sistema de Hotel
 
-- ✉️ Email: [Rick.kayan@gmail.com](Rick.kayan@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/KayanSouza](https://www.linkedin.com/in/richard-kayan-de-souza)
+Sistema de gerenciamento de reservas e controle de quartos.
+
+🔹 Funcionalidades:
+
+- Cadastro de clientes
+- Reservas
+- Check-in / Check-out
+- Controle de disponibilidade
+
+🚀 Próximos passos:
+
+- API REST
+- Persistência em banco
 
 ---
 
-### ⚡ Curiosidade
+### 🚚 Sistema de Logística (Demo Day)
 
-> “Quem domina a lógica, domina qualquer campo — inclusive o de futebol!” 🧠⚽
+Sistema de monitoramento de caminhões e viagens.
 
-### 🧡 Obrigado por visitar!
+🔹 Funcionalidades:
+
+- Cadastro de caminhões
+- Controle de viagens
+- Status em tempo real
+
+🚀 Próximos passos:
+
+- API completa
+- Dashboard com dados
+
+---
+
+## 📊 Estatísticas GitHub
 
 
 
+---
+
+## 📫 Contato
+
+📧 Email: rick.kayan@gmail.com
+📱 Telefone: (11) 949554230
+
+---
+
+## ⚡ Objetivo
+
+Meu objetivo é me tornar um desenvolvedor backend sólido, trabalhando com APIs, banco de dados e sistemas escaláveis.
