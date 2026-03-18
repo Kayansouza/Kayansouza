@@ -22,11 +22,45 @@ Busco minha primeira oportunidade na área de tecnologia como Estagiário, Jovem
 
 ## 🚀 Tecnologias & Ferramentas
 
+### 👨‍💻 Linguagens 
+
+KOTLIN
+
+JAVA
+
+JAVASCRIPT 
+
+###  
 
 
 
 
+### 🛠 Backend & Banco de Dados
 
+MYSQL
+
+SQL 
+
+MONGODB
+
+KOTLIN
+
+SPRING BOOT
+
+
+### 🎨 Frontend
+
+Javascript 
+
+
+
+### ⚙️ Ferramentas
+
+Git & GitHub
+
+Trello
+
+Figma
 
 
 ---
@@ -101,4 +135,4 @@ Sistema de monitoramento de caminhões e viagens.
 
 ## ⚡ Objetivo
 
-Meu objetivo é me tornar um desenvolvedor backend sólido, trabalhando com APIs, banco de dados e sistemas escaláveis.
+Meu objetivo é me tornar um desenvolvedor backend sólido, trabalhando com APIs, banco de dados e sistemas escalávei
