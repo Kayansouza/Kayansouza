@@ -57,7 +57,9 @@ Monitoramento e controle de frotas e viagens em tempo real.
 
 📧 **Email:** rick.kayan@gmail.com  
 📱 **WhatsApp:** (11) 94955-4230  
-💼 **LinkedIn:** [Adicione seu link aqui, Richard!]
+💼 **LinkedIn:** www.linkedin.com/in/richard-kayan
+
+
 
 ---
 
