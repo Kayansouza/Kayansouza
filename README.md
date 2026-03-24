@@ -1,138 +1,67 @@
-# 👋 Fala, eu sou o Richard
+# 👋 Fala, eu sou o Richard Kayan!
 
-💻 Desenvolvedor Backend em formação
-🚀 Focado em Kotlin, Java e APIs REST
-📚 Estudante de Ciência da Computação | Proa
+### 🦅 Desenvolvedor Backend em formação | Apaixonado por Kotlin & Corinthians
+🚀 Atualmente focado em construir sistemas escaláveis, APIs REST e arquitetura modular (MVC).
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor em formação com foco em backend, construindo projetos reais com regras de negócio aplicadas.
+Estudante de **Ciência da Computação** e aluno do **PROA**, busco minha primeira oportunidade como **Estagiário** ou **Desenvolvedor Júnior**. Acredito que código bom é código que resolve problemas reais com regras de negócio bem aplicadas.
 
-Atualmente estou desenvolvendo sistemas como:
-
-- 💰 Sistema Bancário (Caixa Eletrônico)
-- 🏨 Sistema de Hotel
-- 🚚 Sistema de Logística (Demo Day)
-
-Busco minha primeira oportunidade na área de tecnologia como Estagiário, Jovem Aprendiz ou Desenvolvedor Júnior.
+- 🛠️ **Foco Atual:** Kotlin, Java e Spring Boot.
+- 🎓 **Educação:** Ciência da Computação (Graduação) | PROA (Formação Profissional).
+- 🏆 **Diferencial:** Experiência em estruturação de projetos com separação de responsabilidades (MVC).
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
-### 👨‍💻 Linguagens 
-
-KOTLIN
-
-JAVA
-
-JAVASCRIPT 
-
-###  
-
-
-
-
-### 🛠 Backend & Banco de Dados
-
-MYSQL
-
-SQL 
-
-MONGODB
-
-KOTLIN
-
-SPRING BOOT
-
-
-### 🎨 Frontend
-
-Javascript 
-
-
-
-### ⚙️ Ferramentas
-
-Git & GitHub
-
-Trello
-
-Figma
-
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Kotlin, Java, JavaScript (ES6+) |
+| **Backend** | Spring Boot, API REST, Lógica de Negócio Modular |
+| **Banco de Dados** | MySQL, MongoDB, SQL |
+| **Ferramentas** | Git, GitHub, Trello, Figma, IntelliJ IDEA |
 
 ---
 
-## 🔥 Projetos em destaque
+## 🔥 Projetos em Destaque
+
+### 🏨 [Sistema de Gestão Hoteleira - Bando de Loucos](https://github.com/Kayansouza/Hotel---Corinthians)
+Sistema robusto de gerenciamento com foco em segurança e relatórios financeiros.
+- **Destaque:** Implementação de arquitetura **MVC** (Model-View-Controller).
+- **Funcionalidades:** Controle de acesso, gestão de eventos, reservas VIP e relatórios operacionais.
 
 ### 💰 Sistema Bancário (Caixa Eletrônico)
-
-Sistema simulando operações bancárias com foco em backend e regras de negócio.
-
-🔹 Funcionalidades:
-
-- Depósito
-- Saque
-- Consulta de saldo
-- Histórico de transações
-
-🚀 Próximos passos:
-
-- Transformar em API REST
-- Integração com MySQL
-
----
-
-### 🏨 Sistema de Hotel
-
-Sistema de gerenciamento de reservas e controle de quartos.
-
-🔹 Funcionalidades:
-
-- Cadastro de clientes
-- Reservas
-- Check-in / Check-out
-- Controle de disponibilidade
-
-🚀 Próximos passos:
-
-- API REST
-- Persistência em banco
-
----
+Simulação completa de operações financeiras com validações de segurança.
+- **Funcionalidades:** Saque, depósito, extrato e histórico.
+- **Evolução:** Em processo de migração para API REST e persistência em MySQL.
 
 ### 🚚 Sistema de Logística (Demo Day)
-
-Sistema de monitoramento de caminhões e viagens.
-
-🔹 Funcionalidades:
-
-- Cadastro de caminhões
-- Controle de viagens
-- Status em tempo real
-
-🚀 Próximos passos:
-
-- API completa
-- Dashboard com dados
+Monitoramento e controle de frotas e viagens em tempo real.
+- **Foco:** Performance e organização de dados de rastreamento.
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas do GitHub
 
-
-
----
-
-## 📫 Contato
-
-📧 Email: rick.kayan@gmail.com
-📱 Telefone: (11) 949554230
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kayansouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayansouza&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
-## ⚡ Objetivo
+## 📫 Vamos trocar uma ideia?
 
-Meu objetivo é me tornar um desenvolvedor backend sólido, trabalhando com APIs, banco de dados e sistemas escalávei
+📧 **Email:** rick.kayan@gmail.com  
+📱 **WhatsApp:** (11) 94955-4230  
+💼 **LinkedIn:** [Adicione seu link aqui, Richard!]
+
+---
+
+### ⚡ Meu Objetivo
+Me tornar um especialista em **Backend**, dominando ecossistemas de alta performance e contribuindo para o sucesso de grandes times de tecnologia. 
+
+**"Pé no chão, foco no código e Vai Corinthians! 🦅"**
