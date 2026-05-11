@@ -1,68 +1,62 @@
-# 👋 Fala, eu sou o Richard Kayan!
+# 🏴‍☠️ Hey, I'm Richard Kayan! 🦅
 
-### 🦅 Desenvolvedor Backend em formação | Apaixonado por Kotlin & Corinthians
-🚀 Atualmente focado em construir sistemas escaláveis, APIs REST e arquitetura modular (MVC).
+**Backend Developer in training | Setting sail with Kotlin, Spring Boot, and the black-and-white grit.**
 
----
+Searching for the "One Piece" of tech: scalable architectures, robust APIs, and clean code. As a **Computer Science** student sharpening my blades at **Instituto PROA**, I am hoisting the sails to find my first crew (**Internship or Junior Developer**). 
 
-## 🧠 Sobre mim
+I believe good code is like a ship built with Adam Wood: designed with solid business rules to withstand the worst storms of the market's *Grand Line*.
 
-Estudante de **Ciência da Computação** e aluno do **PROA**, busco minha primeira oportunidade como **Estagiário** ou **Desenvolvedor Júnior**. Acredito que código bom é código que resolve problemas reais com regras de negócio bem aplicadas.
-
-- 🛠️ **Foco Atual:** Kotlin, Java e Spring Boot.
-- 🎓 **Educação:** Ciência da Computação (Graduação) | PROA (Formação Profissional).
-- 🏆 **Diferencial:** Experiência em estruturação de projetos com separação de responsabilidades (MVC).
+### 🧭 The Log Pose (My Current Status)
+- ⚔️ **Training Focus (Haki):** Mastering the Backend ecosystem (Kotlin, Java, and Spring Boot) and modular architecture (MVC).
+- 📜 **Poneglyphs (Education):** Computer Science (Fasul) | Software Development (Instituto PROA).
+- 🧠 **My Edge:** Previous experience with a business mindset (Alvarez & Marsal) applied to project structuring with separation of concerns.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+### 🛠️ My Arsenal (Tech Stack)
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Kotlin, Java, JavaScript (ES6+) |
-| **Backend** | Spring Boot, API REST, Lógica de Negócio Modular |
-| **Banco de Dados** | MySQL, MongoDB, SQL |
-| **Ferramentas** | Git, GitHub, Trello, Figma, IntelliJ IDEA |
+**Languages & Backend** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
+**Databases & Data** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🔥 Projetos em Destaque
-
-### 🏨 [Sistema de Gestão Hoteleira - Bando de Loucos](https://github.com/Kayansouza/Hotel---Corinthians)
-Sistema robusto de gerenciamento com foco em segurança e relatórios financeiros.
-- **Destaque:** Implementação de arquitetura **MVC** (Model-View-Controller).
-- **Funcionalidades:** Controle de acesso, gestão de eventos, reservas VIP e relatórios operacionais.
-
-### 💰 Sistema Bancário (Caixa Eletrônico)
-Simulação completa de operações financeiras com validações de segurança.
-- **Funcionalidades:** Saque, depósito, extrato e histórico.
-- **Evolução:** Em processo de migração para API REST e persistência em MySQL.
-
-### 🚚 Sistema de Logística (Demo Day)
-Monitoramento e controle de frotas e viagens em tempo real.
-- **Foco:** Performance e organização de dados de rastreamento.
+**Tools & Navigation** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 🏆 Captain's Log (Featured Projects)
 
+* 🏨 **[Hotel Management System - Bando de Loucos](https://github.com/Kayansouza/Hotel_Corinthians)** Robust management system focused on security and financial reports, built with the invincible precision of 2012.  
+  * **Highlight:** Strict implementation of the MVC (Model-View-Controller) architecture.  
+  * **Features:** Access control, event management, VIP reservations, and operational reports.
+
+* 💰 **Banking System (ATM)** The crew's safe. Full simulation of financial operations with critical security validations.  
+  * **Evolution:** Currently migrating to a REST API and scalable MySQL persistence.
+
+* 🚚 **Logistics System (Demo Day)** Navigating the seas with real-time data. Fleet and trip monitoring and control.  
+  * **Focus:** Performance and structural organization of tracking data.
+
+---
+
+### 📊 Current Bounty (GitHub Stats)
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kayansouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayansouza&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kayansouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayansouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
-## 📫 Vamos trocar uma ideia?
+### 🐌 Den Den Mushi (Let's connect!)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-kayan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rick.kayan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://melodious-sprite-aeec6d.netlify.app/)
 
-📧 **Email:** rick.kayan@gmail.com    
-💼 **LinkedIn:** www.linkedin.com/in/richard-kayan
+⚡ **My Ultimate Goal:** Become a Backend specialist and CTO, mastering high-performance ecosystems to lead massive tech fleets.
 
-
-
----
-
-### ⚡ Meu Objetivo
-Me tornar um especialista em **Backend**, dominando ecossistemas de alta performance e contribuindo para o sucesso de grandes times de tecnologia. 
-
-**"Pé no chão, foco no código e Vai Corinthians! 🦅"**
+*"Passion dictates the route, discipline conquers the sea. Feet on the ground, focus on the code, and Vai Corinthians! 🦅"*
