@@ -36,14 +36,6 @@ I believe good code is like a ship built with Adam Wood: designed with solid bus
   * **Highlight:** Strict implementation of the MVC (Model-View-Controller) architecture.  
   * **Features:** Access control, event management, VIP reservations, and operational reports.
 
-* 💰 **Banking System (ATM)** The crew's safe. Full simulation of financial operations with critical security validations.  
-  * **Evolution:** Currently migrating to a REST API and scalable MySQL persistence.
-
-* 🚚 **Logistics System (Demo Day)** Navigating the seas with real-time data. Fleet and trip monitoring and control.  
-  * **Focus:** Performance and structural organization of tracking data.
-
----
-
 ### 📊 Current Bounty (GitHub Stats)
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kayansouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
