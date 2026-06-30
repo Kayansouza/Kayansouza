@@ -1,93 +1,117 @@
 <div align="center">
 
-# Richard Kayan
+# 👋 Hi, I'm Richard Kayan
 
 ### Computer Science Student • Backend Developer • Future DevTools Engineer
 
-> Learning every day to build software that helps developers.
+> *Building my journey toward creating tools that empower developers.*
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Computer Science student
-- 📍 São Paulo, Brazil
-- 📚 Studying Java, Spring Boot and Backend Engineering
-- 🤖 Passionate about Artificial Intelligence and Automation
-- ⚙️ Interested in Developer Experience (DevEx) and IDE Development
-- 🌱 Looking for my first opportunity in technology
+I'm a Computer Science student from Brazil passionate about backend engineering, software architecture, automation, and Artificial Intelligence.
 
----
+My long-term goal is to build **Developer Tools**, contribute to **Open Source**, and work on products such as IDEs and platforms that improve developers' productivity.
 
-## 🚀 Currently Learning
-
-- Java
-- Spring Boot
-- Software Architecture
-- Docker
-- APIs REST
-- System Design
-- GitHub Actions
+Currently, I'm looking for my **first opportunity in the technology industry** while continuously improving my technical skills through personal projects and real-world challenges.
 
 ---
 
-## 💼 Projects
+# 🚀 Currently Learning
+
+- ☕ Java
+- 🍃 Spring Boot
+- 🌐 REST APIs
+- 🏗️ Software Architecture
+- 🐳 Docker
+- ⚙️ Git & GitHub
+- 🔄 GitHub Actions
+- 📐 System Design
+
+---
+
+# 💼 Featured Projects
 
 ### 🤖 Virtual Dream
-AI project developed during PROA.
+Artificial Intelligence project developed during the PROA program.
 
 ### 📊 Market Automation
-Automation capable of reducing market research from hours to minutes.
+Automation that reduces market research from **8 hours to approximately 15 minutes**, improving productivity through intelligent data processing.
 
 ### 🚛 Fleet Dashboard
-Academic backend project focused on logistics management.
+Backend project focused on fleet management, monitoring, and logistics operations.
 
-> More projects are coming soon...
-
----
-
-## 🎯 Career Goals
-
-- Get my first Backend Developer opportunity
-- Become a strong Software Engineer
-- Contribute to Open Source
-- Build Developer Tools
-- Work developing IDEs
+> 🚀 More projects are coming soon...
 
 ---
 
-## 📚 Current Focus
+# 🎯 Career Goals
+
+- 💼 Land my first Backend Developer role
+- 🏗️ Become a strong Software Engineer
+- 🌍 Contribute to Open Source projects
+- ⚙️ Build Developer Tools
+- 💻 Develop IDEs and developer-focused software
+
+---
+
+# 📚 Current Focus
 
 ```text
-Backend Engineering ███████░░░ 70%
+Backend Engineering  ███████░░░   70%
 
-Java ██████░░░░░ 60%
+Java                 ██████░░░░   60%
 
-Spring Boot ████░░░░░░ 40%
+Spring Boot          ████░░░░░░   40%
 
-System Design ███░░░░░░░ 30%
+System Design        ███░░░░░░░   30%
 
-Open Source ██░░░░░░░░░ 20%
+Open Source          ██░░░░░░░░   20%
 ```
 
 ---
 
-## 📈 GitHub Stats
+# 🛠️ Tech Stack
 
-<!-- github stats -->
-
----
-
-## 🤝 Let's Connect
-
-LinkedIn
-
-Email
-
-Portfolio (Coming Soon)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,react,python,docker,mysql,postgres,git,github,linux,vscode&perline=7" />
+</p>
 
 ---
 
-> "Every expert was once a beginner who never stopped building."
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Connect with Me
+
+- 💼 LinkedIn: *(add your profile)*
+- 📧 Email: **rick.kayan@gmail.com**
+- 🌐 Portfolio: *Coming Soon*
+
+---
+
+<div align="center">
+
+### 📖 Philosophy
+
+> *"Every expert was once a beginner who never stopped building."*
+
+</div>
