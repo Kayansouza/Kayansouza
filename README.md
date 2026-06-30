@@ -6,6 +6,8 @@
 
 > *Building my journey toward creating tools that empower developers.*
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Backend+Developer+in+Progress;Learning+Java+%26+Spring+Boot;Passionate+about+AI+and+Automation;Future+DevTools+Engineer;Future+IDE+Developer;Always+Building+Something+New" />
+
 </div>
 
 ---
@@ -36,25 +38,18 @@ Currently, I'm looking for my **first opportunity in the technology industry** w
 # 💼 Featured Projects
 
 ### 🤖 Virtual Dream
+
 Artificial Intelligence project developed during the PROA program.
 
 ### 📊 Market Automation
+
 Automation that reduces market research from **8 hours to approximately 15 minutes**, improving productivity through intelligent data processing.
 
 ### 🚛 Fleet Dashboard
+
 Backend project focused on fleet management, monitoring, and logistics operations.
 
 > 🚀 More projects are coming soon...
-
----
-
-# 🎯 Career Goals
-
-- 💼 Land my first Backend Developer role
-- 🏗️ Become a strong Software Engineer
-- 🌍 Contribute to Open Source projects
-- ⚙️ Build Developer Tools
-- 💻 Develop IDEs and developer-focused software
 
 ---
 
@@ -76,13 +71,50 @@ Open Source          ██░░░░░░░░   20%
 
 # 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,react,python,docker,mysql,postgres,git,github,linux,vscode&perline=7" />
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis"/>
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux"/>
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 🎯 Career Goals
+
+- 💼 Land my first Backend Developer role
+- 🏗️ Become a strong Software Engineer
+- 🌍 Contribute to Open Source
+- ⚙️ Build Developer Tools
+- 💻 Work developing IDEs
+- 🚀 Create my first GitHub App
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -91,6 +123,8 @@ Open Source          ██░░░░░░░░   20%
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -102,16 +136,32 @@ Open Source          ██░░░░░░░░   20%
 
 # 🤝 Connect with Me
 
-- 💼 LinkedIn: *(add your profile)*
-- 📧 Email: **rick.kayan@gmail.com**
-- 🌐 Portfolio: *Coming Soon*
+<p>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:rick.kayan@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 📖 Philosophy
+## 📖 Philosophy
 
 > *"Every expert was once a beginner who never stopped building."*
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=58A6FF)
 
 </div>
