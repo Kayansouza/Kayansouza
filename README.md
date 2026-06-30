@@ -1,54 +1,150 @@
-# 🏴‍☠️ Hey, I'm Richard Kayan! 🦅
-
-**Backend Developer in training | Setting sail with Kotlin, Spring Boot, and the black-and-white grit.**
-
-Searching for the "One Piece" of tech: scalable architectures, robust APIs, and clean code. As a **Computer Science** student sharpening my blades at **Instituto PROA**, I am hoisting the sails to find my first crew (**Internship or Junior Developer**). 
-
-I believe good code is like a ship built with Adam Wood: designed with solid business rules to withstand the worst storms of the market's *Grand Line*.
-
-### 🧭 The Log Pose (My Current Status)
-- ⚔️ **Training Focus (Haki):** Mastering the Backend ecosystem (Kotlin, Java, and Spring Boot) and modular architecture (MVC).
-- 📜 **Poneglyphs (Education):** Computer Science (Fasul) | Software Development (Instituto PROA).
-- 🧠 **My Edge:** Previous experience with a business mindset (Alvarez & Marsal) applied to project structuring with separation of concerns.
-
----
-
-### 🛠️ My Arsenal (Tech Stack)
-
-**Languages & Backend** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Databases & Data** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Navigation** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 🏆 Captain's Log (Featured Projects)
-
-* 🏨 **[Hotel Management System - Bando de Loucos](https://github.com/Kayansouza/Hotel_Corinthians)** Robust management system focused on security and financial reports, built with the invincible precision of 2012.  
-  * **Highlight:** Strict implementation of the MVC (Model-View-Controller) architecture.  
-  * **Features:** Access control, event management, VIP reservations, and operational reports.
-
-### 📊 Current Bounty (GitHub Stats)
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kayansouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayansouza&layout=compact&langs_count=7&theme=dracula"/>
+
+# 👋 Hey, I'm Richard Kayan
+
+### Backend Engineer • DevTools • AI • Automation
+
+> **Building tools that make developers faster.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Building+Developer+Tools;Future+IDE+Engineer;Open+Source+Enthusiast" />
+
 </div>
 
 ---
 
-### 🐌 Den Den Mushi (Let's connect!)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-kayan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rick.kayan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://melodious-sprite-aeec6d.netlify.app/)
+## 🚀 About Me
 
-⚡ **My Ultimate Goal:** Become a Backend specialist and CTO, mastering high-performance ecosystems to lead massive tech fleets.
+```java
+public class Richard {
 
-*"Passion dictates the route, discipline conquers the sea. Feet on the ground, focus on the code, and Vai Corinthians! 🦅"*
+    String location = "São Paulo, Brazil";
+
+    String role = "Backend Developer";
+
+    String[] interests = {
+        "Developer Tools",
+        "Artificial Intelligence",
+        "Automation",
+        "Distributed Systems",
+        "Software Architecture",
+        "Open Source",
+        "IDE Development"
+    };
+
+    String currentFocus = "Building software that improves developers' productivity.";
+
+}
+```
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis"/>
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux"/>
+</p>
+
+---
+
+# 📌 Current Projects
+
+- 🚛 Fleet Dashboard
+- 🤖 AI Automation Platform
+- ⚙️ Developer Tools
+- 📚 Studying Software Architecture
+- 💻 Building Backend APIs
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become a strong Backend Engineer
+- ✅ Build useful Developer Tools
+- ✅ Contribute to Open Source
+- ✅ Publish reusable libraries
+- ✅ Learn System Design
+- ✅ Learn Kubernetes
+- ✅ Learn Kafka
+- ✅ Build my first GitHub App
+
+---
+
+# 🌎 Connect with me
+
+<p>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💭 Philosophy
+
+> *"Great software engineers don't just write code.*
+>
+> *They build tools that empower other developers."*
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=58A6FF)
+
+</div>
