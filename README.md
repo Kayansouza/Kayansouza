@@ -1,167 +1,95 @@
-<div align="center">
+<h1 align="center">Olá, eu sou o Richard Kayan 👋</h1>
 
-# 👋 Hi, I'm Richard Kayan
+<h3 align="center">
+Desenvolvedor Back-End apaixonado por construir sistemas escaláveis.
+</h3>
 
-### Computer Science Student • Backend Developer • Future DevTools Engineer
-
-> *Building my journey toward creating tools that empower developers.*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Backend+Developer+in+Progress;Learning+Java+%26+Spring+Boot;Passionate+about+AI+and+Automation;Future+DevTools+Engineer;Future+IDE+Developer;Always+Building+Something+New" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-I'm a Computer Science student from Brazil passionate about backend engineering, software architecture, automation, and Artificial Intelligence.
-
-My long-term goal is to build **Developer Tools**, contribute to **Open Source**, and work on products such as IDEs and platforms that improve developers' productivity.
-
-Currently, I'm looking for my **first opportunity in the technology industry** while continuously improving my technical skills through personal projects and real-world challenges.
-
----
-
-# 🚀 Currently Learning
-
-- ☕ Java
-- 🍃 Spring Boot
-- 🌐 REST APIs
-- 🏗️ Software Architecture
-- 🐳 Docker
-- ⚙️ Git & GitHub
-- 🔄 GitHub Actions
-- 📐 System Design
-
----
-
-# 💼 Featured Projects
-
-### 🤖 Virtual Dream
-
-Artificial Intelligence project developed during the PROA program.
-
-### 📊 Market Automation
-
-Automation that reduces market research from **8 hours to approximately 15 minutes**, improving productivity through intelligent data processing.
-
-### 🚛 Fleet Dashboard
-
-Backend project focused on fleet management, monitoring, and logistics operations.
-
-> 🚀 More projects are coming soon...
-
----
-
-# 📚 Current Focus
-
-```text
-Backend Engineering  ███████░░░   70%
-
-Java                 ██████░░░░   60%
-
-Spring Boot          ████░░░░░░   40%
-
-System Design        ███░░░░░░░   30%
-
-Open Source          ██░░░░░░░░   20%
-```
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis"/>
-</p>
-
-### DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Developer;Kotlin+Developer;Spring+Boot;Computer+Science+Student;Always+Learning..." />
 </p>
 
 ---
 
-# 🎯 Career Goals
+## 🚀 Sobre mim
 
-- 💼 Land my first Backend Developer role
-- 🏗️ Become a strong Software Engineer
-- 🌍 Contribute to Open Source
-- ⚙️ Build Developer Tools
-- 💻 Work developing IDEs
-- 🚀 Create my first GitHub App
+🎓 Ciência da Computação
 
----
+🎯 Focado em desenvolvimento Back-End
 
-# 📊 GitHub Stats
+☕ Java • Kotlin • Spring Boot
 
-<div align="center">
+🗄️ MongoDB • MySQL
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+📚 Atualmente estudando
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=github-dark&hide_border=true"/>
-
-</div>
+- Arquitetura de Software
+- Cloud Computing
+- Inteligência Artificial
+- APIs REST
+- Docker
 
 ---
 
-# 🤝 Connect with Me
+## 💻 Tecnologias
 
-<p>
+<p align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,mongodb,git,github,docker,linux,idea,vscode,postman" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kayansouza&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayansouza&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Projetos em destaque
+
+🏨 Hotel Corinthians
+
+Sistema completo para gerenciamento de hotéis utilizando Kotlin, Spring Boot e MongoDB.
+
+🎵 Virtual Dream
+
+API para recomendação de sons e músicas utilizando IA.
+
+🤖 Job Automation
+
+Automação em Python para busca e organização de vagas de tecnologia.
+
+---
+
+## 🌎 Vamos conversar?
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/richard-kayan-de-souza-91a532204">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:rick.kayan@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://github.com/Kayansouza">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://kayansouzadev.com">
+🌐 Portfolio
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## 📖 Philosophy
+> "Transformando curiosidade em software."
 
-> *"Every expert was once a beginner who never stopped building."*
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=58A6FF)
-
-</div>
+</p>
