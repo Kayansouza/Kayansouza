@@ -1,74 +1,97 @@
-<h1 align="center">Olá, eu sou o Richard Kayan 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Desenvolvedor Back-End apaixonado por construir sistemas escaláveis.
-</h3>
+# Richard Kayan
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Developer;Kotlin+Developer;Spring+Boot;Computer+Science+Student;Always+Learning..." />
+### Back-End Developer • Computer Science Student • Always Building
+
+<p>
+  <a href="https://github.com/Kayansouza">
+    <img src="https://img.shields.io/github/followers/Kayansouza?label=Followers&style=for-the-badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Kayansouza&style=for-the-badge&color=blue" />
 </p>
 
----
-
-## 🚀 Sobre mim
-
-🎓 Ciência da Computação
-
-🎯 Focado em desenvolvimento Back-End
-
-☕ Java • Kotlin • Spring Boot
-
-🗄️ MongoDB • MySQL
-
-📚 Atualmente estudando
-
-- Arquitetura de Software
-- Cloud Computing
-- Inteligência Artificial
-- APIs REST
-- Docker
+</div>
 
 ---
 
-## 💻 Tecnologias
+## 👋 Sobre mim
 
-<p align="center">
+Sou estudante de **Ciência da Computação** e apaixonado por desenvolvimento Back-End.
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,mongodb,git,github,docker,linux,idea,vscode,postman" />
+Gosto de entender como as coisas funcionam por baixo dos panos, desde APIs e bancos de dados até arquitetura de software.
 
-</p>
+Atualmente meu foco está em construir aplicações escaláveis utilizando **Java**, **Kotlin** e **Spring Boot**, enquanto aprofundo meus conhecimentos em Cloud, DevOps e Inteligência Artificial.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kayansouza&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayansouza&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+> *Não quero apenas escrever código. Quero construir software que faça sentido.*
 
 ---
 
-## 🔥 Projetos em destaque
+## 🚀 Atualmente
 
-🏨 Hotel Corinthians
+- 📚 Estudando Arquitetura de Software
+- ☕ Aprimorando Java e Kotlin
+- 🌱 Aprendendo Docker e Cloud
+- 🏗️ Desenvolvendo projetos para portfólio
+- 💼 Em busca de oportunidades Back-End
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,mongodb,git,github,docker,linux,idea,vscode,postman"/>
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kayansouza&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayansouza&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 💼 Projetos
+
+### 🏨 Hotel Corinthians
 
 Sistema completo para gerenciamento de hotéis utilizando Kotlin, Spring Boot e MongoDB.
 
-🎵 Virtual Dream
+---
 
-API para recomendação de sons e músicas utilizando IA.
+### 🎵 Virtual Dream
 
-🤖 Job Automation
-
-Automação em Python para busca e organização de vagas de tecnologia.
+API desenvolvida durante o Instituto PROA para uma plataforma de recomendação de sons e músicas.
 
 ---
 
-## 🌎 Vamos conversar?
+### 🤖 Job Automation
+
+Automação desenvolvida em Python para busca e organização de vagas de tecnologia.
+
+---
+
+## 📈 Atualmente aprendendo
+
+```text
+███████████░░░░░░░ Java
+██████████░░░░░░░ Kotlin
+█████████░░░░░░░░ Spring Boot
+███████░░░░░░░░░░ Docker
+██████░░░░░░░░░░░ AWS
+```
+
+---
+
+## 🌎 Contato
 
 <p align="center">
 
@@ -88,8 +111,8 @@ Automação em Python para busca e organização de vagas de tecnologia.
 
 ---
 
-<p align="center">
+<div align="center">
 
-> "Transformando curiosidade em software."
+### "Code with curiosity. Build with purpose."
 
-</p>
+</div>
