@@ -1,14 +1,16 @@
 <div align="center">
 
-## 👨‍💻 Richard Kayan
+# Richard Kayan
 
-> Curious enough to ask why.\
-> Determined enough to build the answer.
+### Software Engineer in Progress 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Development.;Software+Engineering.;Always+Building.;Always+Learning."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Java+%7C+Kotlin+%7C+Spring+Boot;Backend+Development;Building+Projects;Computer+Science+Student"/>
+
+<p>
+Building reliable software one commit at a time.
+</p>
 
 </div>
----
 
 ## 👋 Sobre mim
 
