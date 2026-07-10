@@ -1,18 +1,13 @@
 <div align="center">
 
-# Richard Kayan
+## 👨‍💻 Richard Kayan
 
-### Back-End Developer • Computer Science Student • Always Building
+> Curious enough to ask why.\
+> Determined enough to build the answer.
 
-<p>
-  <a href="https://github.com/Kayansouza">
-    <img src="https://img.shields.io/github/followers/Kayansouza?label=Followers&style=for-the-badge">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Kayansouza&style=for-the-badge&color=blue" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Development.;Software+Engineering.;Always+Building.;Always+Learning."/>
 
 </div>
-
 ---
 
 ## 👋 Sobre mim
