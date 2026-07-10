@@ -2,13 +2,9 @@
 
 # Richard Kayan
 
-### Software Engineer in Progress 🚀
+### Designing software. Solving problems. Never stop learning.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Java+%7C+Kotlin+%7C+Spring+Boot;Backend+Development;Building+Projects;Computer+Science+Student"/>
-
-<p>
-Building reliable software one commit at a time.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Java;Kotlin;Spring+Boot;Software+Architecture;Cloud+Computing"/>
 
 </div>
 
